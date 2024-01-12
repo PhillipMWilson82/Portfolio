@@ -1,0 +1,12 @@
+This folder contains the prefabs and scripts necessary for a simple inventory and shop.
+The aim of this project is to illustrate the following concepts:
+  - modular design
+  - keeping codebases lightweight
+  - uncoupling through events
+  - maximizing use of Unity Engine UI and features
+  - use of prefabs and flexible/customizable gameobjects
+
+
+The Inventory UI script will need to be attached to a gameobject (ideally a canvas).
+There will also need to be a playerinventory game object with an inventory and InventoryUI script attached.
+The comments and documentation should make sense of it.  
